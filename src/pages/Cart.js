@@ -1,3 +1,4 @@
+//-------------- react-redux-vs-context\src\pages => Cart.js --------------
 import React, { Component } from 'react';
 // import { connect } from 'react-redux';
 

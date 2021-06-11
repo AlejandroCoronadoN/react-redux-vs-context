@@ -1,3 +1,4 @@
+//-------------- react-redux-vs-context\src\context => GlobalState.js --------------
 import React, { Component } from 'react';
 
 import ShopContext from './shop-context';

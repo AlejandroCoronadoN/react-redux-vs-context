@@ -1,3 +1,4 @@
+//-------------- react-redux-vs-context\src\context => shop-context.js --------------
 import React from 'react';
 
 export default React.createContext({
