@@ -1,3 +1,4 @@
+//-------------- react-redux-vs-context\src\store => reducers.js --------------
 import { ADD_PRODUCT_TO_CART, REMOVE_PRODUCT_FROM_CART } from './actions';
 
 const initialState = {

@@ -1,3 +1,4 @@
+//-------------- react-redux-vs-context\src\pages => Products.js --------------
 import React from 'react';
 // import { connect } from 'react-redux';
 

@@ -1,3 +1,4 @@
+//-------------- react-redux-vs-context\src\context => reducers.js --------------
 export const ADD_PRODUCT = 'ADD_PRODUCT';
 export const REMOVE_PRODUCT = 'REMOVE_PRODUCT';
 
