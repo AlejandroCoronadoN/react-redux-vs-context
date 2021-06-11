@@ -1,3 +1,4 @@
+//-------------- Github\react-redux-vs-context\src => index.js --------------
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { createStore, applyMiddleware } from 'redux';

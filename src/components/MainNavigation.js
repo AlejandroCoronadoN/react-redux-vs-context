@@ -1,3 +1,4 @@
+//-------------- react-redux-vs-context\src\components => MainNavigation.js --------------
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
